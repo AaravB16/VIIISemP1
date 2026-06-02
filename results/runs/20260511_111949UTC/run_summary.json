@@ -1,0 +1,26 @@
+{
+  "run_dir": "/home/El_Professor258/Downloads/Project_Aarav/results/runs/20260511_111949UTC",
+  "created_at_utc": "2026-05-11T11:19:51.101695+00:00",
+  "source_artifacts": {
+    "results": "/home/El_Professor258/Downloads/Project_Aarav/results/experiment_results.json",
+    "robustness": "/home/El_Professor258/Downloads/Project_Aarav/results/robustness_analysis.json",
+    "feature_benchmark": "/home/El_Professor258/Downloads/Project_Aarav/results/feature_selection_benchmark_ii.json"
+  },
+  "generated_files": [
+    "/home/El_Professor258/Downloads/Project_Aarav/results/runs/20260511_111949UTC/figures/comparison_accuracy.png",
+    "/home/El_Professor258/Downloads/Project_Aarav/results/runs/20260511_111949UTC/figures/comparison_f1_score.png",
+    "/home/El_Professor258/Downloads/Project_Aarav/results/runs/20260511_111949UTC/figures/comparison_precision.png",
+    "/home/El_Professor258/Downloads/Project_Aarav/results/runs/20260511_111949UTC/figures/comparison_recall.png",
+    "/home/El_Professor258/Downloads/Project_Aarav/results/runs/20260511_111949UTC/figures/comparison_detection_rate.png",
+    "/home/El_Professor258/Downloads/Project_Aarav/results/runs/20260511_111949UTC/figures/training_time_comparison.png",
+    "/home/El_Professor258/Downloads/Project_Aarav/results/runs/20260511_111949UTC/figures/heatmap_f1_original.png",
+    "/home/El_Professor258/Downloads/Project_Aarav/results/runs/20260511_111949UTC/figures/heatmap_detection_rate_original.png",
+    "/home/El_Professor258/Downloads/Project_Aarav/results/runs/20260511_111949UTC/figures/variant_delta_f1.png",
+    "/home/El_Professor258/Downloads/Project_Aarav/results/runs/20260511_111949UTC/figures/robustness_heatmap_f1.png",
+    "/home/El_Professor258/Downloads/Project_Aarav/results/runs/20260511_111949UTC/figures/performance_drop_chart.png",
+    "/home/El_Professor258/Downloads/Project_Aarav/results/runs/20260511_111949UTC/figures/robustness_ranking.png",
+    "/home/El_Professor258/Downloads/Project_Aarav/results/runs/20260511_111949UTC/figures/feature_selection_tradeoff_f1.png",
+    "/home/El_Professor258/Downloads/Project_Aarav/results/runs/20260511_111949UTC/figures/feature_selection_recommendations.png"
+  ],
+  "n_generated_files": 14
+}
